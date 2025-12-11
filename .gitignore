@@ -1,2 +1,4 @@
 jsongenerator/
 .env
+
+__pycache__
