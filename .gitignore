@@ -2,3 +2,4 @@ jsongenerator/
 .env
 
 __pycache__
+.vscode/launch.json
